@@ -12,3 +12,5 @@ definition. (2026). Tutorial — NetworkX 3.7.1RC0.DEV0 documentation. Networkx.
 Duan, Ran, Jiayi Mao, Xiao Mao, Xinkai Shu, and Longhui Yin. 2026. “Breaking the Sorting Barrier for Directed Single-Source Shortest Paths.” Journal of the ACM, October 1, 3849867. https://doi.org/10.1145/3849867.
 
 Dijkstra, E.W. "A note on two problems in connexion with graphs." Numer. Math. 1, 269–271 (1959). https://doi.org/10.1007/BF01386390
+
+Python Documentation. 2026. “Heapq — Heap Queue Algorithm.” https://docs.python.org/3/library/heapq.html.
