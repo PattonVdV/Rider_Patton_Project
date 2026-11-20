@@ -4,7 +4,7 @@
 The only AI that was used for this project was suggestions made by GitHub Copilot within VS Code. Suggestions from Copilot were accepted while creating the randomly generated graph and both methods for finding the shortest path.
 
 # *Project Description*
-This problem is specifically looking at how a navigation app finds the fastest route.
+This project is specifically looking at how a navigation app finds the fastest route. We aim to look at Dijkstra's algorithm and an algorithm introduced by Ran Duan et al. 
 
 # Sources
 definition. (2026). Tutorial — NetworkX 3.7.1RC0.DEV0 documentation. Networkx.Org. https://networkx.org/documentation/stable/tutorial.html
