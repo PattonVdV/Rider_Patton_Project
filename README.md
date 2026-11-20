@@ -4,7 +4,7 @@
 The only AI that was used for this project was suggestions made by GitHub Copilot within VS Code. Suggestions from Copilot were accepted while creating the randomly generated graph and both methods for finding the shortest path.
 
 # *Project Description*
-This project is specifically looking at how a navigation app finds the fastest route. We aim to look at Dijkstra's algorithm and an algorithm introduced by Ran Duan et al. In Python, we use a function that generates a random graph of 7 nodes and 17 edges. We chose this number of edges so that we purposefully didn't have a complete graph. We also chose to have a visual representation of the graph, where we used NetworkX to create a circular graph showing our nodes and edges. 
+This project is specifically looking at how a navigation app finds the fastest route. We aim to look at Dijkstra's algorithm and an algorithm introduced by Ran Duan et al. Our algorithm is also able to find the shortest distance from node 1 to all other nodes. In Python, we use a function that generates a random graph of 7 nodes and 17 edges. We chose this number of edges so that we purposefully didn't have a complete graph. We also chose to have a visual representation of the graph, where we used NetworkX to create a circular graph showing our nodes and edges. 
 
 Downloading the *Project_2.ipynb* file from this repository and running it in Python will work for our code. 
 
